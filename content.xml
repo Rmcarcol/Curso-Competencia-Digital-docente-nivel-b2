@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026052710422682ODFJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260527104226B5R8CN</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779867140505</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpnqxv08-pwcfju5za</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué pasaría si el cambio climático afectara a los personajes de dibujos animados?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué pasaría si el cambio climático afectara a los personajes de dibujos animados?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué pasaría si el cambio climático afectara a los personajes de dibujos animados?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Qué pasaría si el cambio climático afectara a los personajes de dibujos animados?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv08-pwcfju5za</odePageId>
+      <odeBlockId>block-1779792322169-g2rzt53bq</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv08-pwcfju5za</odePageId>
+          <odeBlockId>block-1779792322169-g2rzt53bq</odeBlockId>
+          <odeIdeviceId>idevice-1779792322164-8yxog11g3</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779792322164-8yxog11g3" title="" href="{{context_path}}/content/resources/1629741966_archive_Lilo_y_Stich.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/1629741966_archive_Lilo_y_Stich.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779792322164-8yxog11g3","img_0":{"img":"{{context_path}}/content/resources/1629741966_archive_Lilo_y_Stich.jpg","thumbnail":"{{context_path}}/content/resources/1629741966_archive_Lilo_y_Stich.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779869710737-yl1h7znj6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779869710737-yl1h7znj6</odePageId>
+      <odeBlockId>block-1779869917154-l6k7jkwzx</odeBlockId>
+      <blockName>Nivel educativo
+
+Educación Primaria (5º y 6º curso).</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779869710737-yl1h7znj6</odePageId>
+          <odeBlockId>block-1779869917154-l6k7jkwzx</odeBlockId>
+          <odeIdeviceId>idevice-1779869917151-mj172yrq1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Área</strong><br />Conocimiento del Medio Natural, Social y Cultural.</p>
+<p><strong>Temporalización</strong><br />El proyecto se desarrollará durante 5 sesiones.</p>
+<p><strong>Metodología</strong><br />Se utilizará una metodología activa, participativa y cooperativa basada en el aprendizaje mediante proyectos, el uso de herramientas digitales y la reflexión sobre el cuidado del medio ambiente.</p>
+<p><strong>Competencias trabajadas</strong><br /></p>
+<ul>
+<li>Competencia digital.<br /></li>
+<li>Competencia en comunicación lingüística.<br /></li>
+<li>Competencia personal, social y de aprender a aprender.<br /></li>
+<li>Competencia ciudadana.</li>
+</ul>
+<p><strong>Atención a la diversidad</strong><br /></p>
+<p>Las actividades propuestas se adaptarán a las necesidades del alumnado mediante recursos visuales, trabajo cooperativo y herramientas digitales accesibles, siguiendo principios básicos del Diseño Universal para el Aprendizaje (DUA).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779869917151-mj172yrq1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Área</strong><br />Conocimiento del Medio Natural, Social y Cultural.</p>\n<p><strong>Temporalización</strong><br />El proyecto se desarrollará durante 5 sesiones.</p>\n<p><strong>Metodología</strong><br />Se utilizará una metodología activa, participativa y cooperativa basada en el aprendizaje mediante proyectos, el uso de herramientas digitales y la reflexión sobre el cuidado del medio ambiente.</p>\n<p><strong>Competencias trabajadas</strong><br /></p>\n<ul>\n<li>Competencia digital.<br /></li>\n<li>Competencia en comunicación lingüística.<br /></li>\n<li>Competencia personal, social y de aprender a aprender.<br /></li>\n<li>Competencia ciudadana.</li>\n</ul>\n<p><strong>Atención a la diversidad</strong><br /></p>\n<p>Las actividades propuestas se adaptarán a las necesidades del alumnado mediante recursos visuales, trabajo cooperativo y herramientas digitales accesibles, siguiendo principios básicos del Diseño Universal para el Aprendizaje (DUA).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv0c-v1wzws7nj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. PRESENTACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv0c-v1wzws7nj</odePageId>
+      <odeBlockId>block-1779792393920-49h1ucx6f</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv0c-v1wzws7nj</odePageId>
+          <odeBlockId>block-1779792393920-49h1ucx6f</odeBlockId>
+          <odeIdeviceId>idevice-1779792393917-ene5aopta</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto tiene como finalidad concienciar al alumnado sobre la importancia del cuidado del medio ambiente y las consecuencias del cambio climático mediante personajes de dibujos animados conocidos por el alumnado.</p>
+<p>A través de actividades digitales, juegos interactivos y trabajo cooperativo, el alumnado investigará cómo afectan la contaminación, el deshielo y la deforestación a diferentes ecosistemas y seres vivos.</p>
+<p>El proyecto fomentará la creatividad, la competencia digital y la educación en valores relacionados con la sostenibilidad y el respeto al entorno.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779792393917-ene5aopta","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto tiene como finalidad concienciar al alumnado sobre la importancia del cuidado del medio ambiente y las consecuencias del cambio climático mediante personajes de dibujos animados conocidos por el alumnado.</p>\n<p>A través de actividades digitales, juegos interactivos y trabajo cooperativo, el alumnado investigará cómo afectan la contaminación, el deshielo y la deforestación a diferentes ecosistemas y seres vivos.</p>\n<p>El proyecto fomentará la creatividad, la competencia digital y la educación en valores relacionados con la sostenibilidad y el respeto al entorno.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv0f-dlp695it5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. USO RESPONSABLE Y DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. USO RESPONSABLE Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. USO RESPONSABLE Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv0f-dlp695it5</odePageId>
+      <odeBlockId>block-1779792420523-3xocq2zdj</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv0f-dlp695it5</odePageId>
+          <odeBlockId>block-1779792420523-3xocq2zdj</odeBlockId>
+          <odeIdeviceId>idevice-1779792420521-5mo9942og</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p download="exe-package:elp-name">Durante el desarrollo del proyecto utilizaremos herramientas digitales de forma segura, responsable y respetuosa.</p>
+<p>No compartiremos datos personales ni imágenes sin autorización y respetaremos siempre la privacidad y los derechos digitales de los compañeros.</p>
+<p>También aprenderemos a utilizar internet de manera crítica y responsable, respetando las normas de convivencia digital y los derechos de autor de imágenes, vídeos y recursos utilizados durante las actividades.</p>
+<p>Es importante mantener una actitud responsable en el entorno digital para cuidar nuestra identidad digital y utilizar correctamente las tecnologías.</p>
+<p download="exe-package:elp-name">Visualizar el siguiente vídeo: <a href="exe-package:elp" title="https://www.youtube.com/watch?v=rHDTJQKW2y8" target="_blank" rel="noopener">Uso responsable en la red</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779792420521-5mo9942og","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p download=\"exe-package:elp-name\">Durante el desarrollo del proyecto utilizaremos herramientas digitales de forma segura, responsable y respetuosa.</p>\n<p>No compartiremos datos personales ni imágenes sin autorización y respetaremos siempre la privacidad y los derechos digitales de los compañeros.</p>\n<p>También aprenderemos a utilizar internet de manera crítica y responsable, respetando las normas de convivencia digital y los derechos de autor de imágenes, vídeos y recursos utilizados durante las actividades.</p>\n<p>Es importante mantener una actitud responsable en el entorno digital para cuidar nuestra identidad digital y utilizar correctamente las tecnologías.</p>\n<p download=\"exe-package:elp-name\">Visualizar el siguiente vídeo: <a href=\"exe-package:elp\" title=\"https://www.youtube.com/watch?v=rHDTJQKW2y8\" target=\"_blank\" rel=\"noopener\">Uso responsable en la red</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv0j-yn8artne7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv0j-yn8artne7</odePageId>
+      <odeBlockId>block-1779792451919-lxn053r9l</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv0j-yn8artne7</odePageId>
+          <odeBlockId>block-1779792451919-lxn053r9l</odeBlockId>
+          <odeIdeviceId>idevice-1779792451916-a8bk9myz2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final del proyecto consistirá en la creación de una campaña digital de concienciación ambiental.</p>
+<p>El alumnado elaborará carteles digitales y realizará exposiciones orales explicando cómo afecta el cambio climático a diferentes personajes de dibujos animados y proponiendo acciones para cuidar el planeta.</p>
+<p><img src="{{context_path}}/content/resources/4905be1bd2120e6e36f3ef461efed447.jpg" width="236" height="228" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Los trabajos serán presentados al resto de la clase utilizando herramientas digitales adaptadas al nivel educativo del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779792451916-a8bk9myz2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final del proyecto consistirá en la creación de una campaña digital de concienciación ambiental.</p>\n<p>El alumnado elaborará carteles digitales y realizará exposiciones orales explicando cómo afecta el cambio climático a diferentes personajes de dibujos animados y proponiendo acciones para cuidar el planeta.</p>\n<p><img src=\"{{context_path}}/content/resources/4905be1bd2120e6e36f3ef461efed447.jpg\" width=\"236\" height=\"228\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Los trabajos serán presentados al resto de la clase utilizando herramientas digitales adaptadas al nivel educativo del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv0l-qgsiamtgx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv0l-qgsiamtgx</odePageId>
+      <odeBlockId>block-1779867594571-grqp2qtwa</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv0l-qgsiamtgx</odePageId>
+          <odeBlockId>block-1779867594571-grqp2qtwa</odeBlockId>
+          <odeIdeviceId>idevice-1779867594568-blgjd70th</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779867594568-blgjd70th" title="" href="{{context_path}}/content/resources/o5L9NpJuRu81FSg19x6QnXwOVTK3AXYfHo_ZjPoHR94PpqlmzY1TlS9NxyHnRPq6m5VZ7_0FG5G1ZLW-qLKRbTa-FK4l3U3w3LUjjCR9wHnBGC-55_nTqNNexSsKmmdbliQhgw0ZTVm3T_0irmRxDWnk3hcQXCTJbEaApq8iM4-5TEemUuC191vxKsxdiuS_.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/o5L9NpJuRu81FSg19x6QnXwOVTK3AXYfHo_ZjPoHR94PpqlmzY1TlS9NxyHnRPq6m5VZ7_0FG5G1ZLW-qLKRbTa-FK4l3U3w3LUjjCR9wHnBGC-55_nTqNNexSsKmmdbliQhgw0ZTVm3T_0irmRxDWnk3hcQXCTJbEaApq8iM4-5TEemUuC191vxKsxdiuS_.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779867594568-blgjd70th","img_1":{"img":"{{context_path}}/content/resources/o5L9NpJuRu81FSg19x6QnXwOVTK3AXYfHo_ZjPoHR94PpqlmzY1TlS9NxyHnRPq6m5VZ7_0FG5G1ZLW-qLKRbTa-FK4l3U3w3LUjjCR9wHnBGC-55_nTqNNexSsKmmdbliQhgw0ZTVm3T_0irmRxDWnk3hcQXCTJbEaApq8iM4-5TEemUuC191vxKsxdiuS_.jpg","thumbnail":"{{context_path}}/content/resources/o5L9NpJuRu81FSg19x6QnXwOVTK3AXYfHo_ZjPoHR94PpqlmzY1TlS9NxyHnRPq6m5VZ7_0FG5G1ZLW-qLKRbTa-FK4l3U3w3LUjjCR9wHnBGC-55_nTqNNexSsKmmdbliQhgw0ZTVm3T_0irmRxDWnk3hcQXCTJbEaApq8iM4-5TEemUuC191vxKsxdiuS_.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv0m-93ezow2ri</odePageId>
+  <odeParentPageId>page-mpnqxv0l-qgsiamtgx</odeParentPageId>
+  <pageName>4.1. RECURSOS ALUMNADO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. RECURSOS ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. RECURSOS ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv0m-93ezow2ri</odePageId>
+      <odeBlockId>block-1779792490490-bwmg700qk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv0m-93ezow2ri</odePageId>
+          <odeBlockId>block-1779792490490-bwmg700qk</odeBlockId>
+          <odeIdeviceId>idevice-1779792490488-ufozcsp2n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para realizar el proyecto utilizaremos diferentes recursos digitales dirigidos al alumnado:</p>
+<ul>
+<li title="https://www.youtube.com/watch?utm_source=chatgpt.com&amp;v=TV-YEQOIFuQ&amp;feature=youtu.be" download="exe-package:elp-name">Vídeo educativos sobre el cambio climático: <a href="exe-package:elp" title="https://www.youtube.com/watch?utm_source=chatgpt.com&amp;v=TV-YEQOIFuQ&amp;feature=youtu.be">Cambio climático</a><br /></li>
+<li>Juegos interactivos sobre reciclaje y sostenibilidad: <br /></li>
+<li>Herramientas digitales para diseñar carteles y actividades.<br /></li>
+<li>Recursos visuales e interactivos para investigar y aprender.</li>
+</ul>
+<p><br /><strong>Herramientas utilizadas:</strong></p>
+<ul>
+<li title="" download="exe-package:elp-name">YouTube:<a href="exe-package:elp"> https://www.youtube.com/</a><br /></li>
+<li title="https://www.google.com/?hl=es&amp;zx=1779867725660" download="exe-package:elp-name">Canva: <a href="https://www.canva.com/">https://www.canva.com</a><br /></li>
+<li title="" download="exe-package:elp-name">Genially: <a href="exe-package:elp">https://app.genially.com</a><br /></li>
+<li>Google: <a href="exe-package:elp" title="" download="exe-package:elp-name">https://www.google.com/?hl=es&amp;zx=1779867725660</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779792490488-ufozcsp2n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para realizar el proyecto utilizaremos diferentes recursos digitales dirigidos al alumnado:</p>\n<ul>\n<li title=\"https://www.youtube.com/watch?utm_source=chatgpt.com&amp;v=TV-YEQOIFuQ&amp;feature=youtu.be\" download=\"exe-package:elp-name\">Vídeo educativos sobre el cambio climático: <a href=\"exe-package:elp\" title=\"https://www.youtube.com/watch?utm_source=chatgpt.com&amp;v=TV-YEQOIFuQ&amp;feature=youtu.be\">Cambio climático</a><br /></li>\n<li>Juegos interactivos sobre reciclaje y sostenibilidad: <br /></li>\n<li>Herramientas digitales para diseñar carteles y actividades.<br /></li>\n<li>Recursos visuales e interactivos para investigar y aprender.</li>\n</ul>\n<p><br /><strong>Herramientas utilizadas:</strong></p>\n<ul>\n<li title=\"\" download=\"exe-package:elp-name\">YouTube:<a href=\"exe-package:elp\"> https://www.youtube.com/</a><br /></li>\n<li title=\"https://www.google.com/?hl=es&amp;zx=1779867725660\" download=\"exe-package:elp-name\">Canva: <a href=\"https://www.canva.com/\">https://www.canva.com</a><br /></li>\n<li title=\"\" download=\"exe-package:elp-name\">Genially: <a href=\"exe-package:elp\">https://app.genially.com</a><br /></li>\n<li>Google: <a href=\"exe-package:elp\" title=\"\" download=\"exe-package:elp-name\">https://www.google.com/?hl=es&amp;zx=1779867725660</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv0n-un8prtjtk</odePageId>
+  <odeParentPageId>page-mpnqxv0l-qgsiamtgx</odeParentPageId>
+  <pageName>4.2. RECURSOS PARA DOCENTES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. RECURSOS PARA DOCENTES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. RECURSOS PARA DOCENTES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.2. RECURSOS PARA DOCENTES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv0n-un8prtjtk</odePageId>
+      <odeBlockId>block-1779792593119-mc02tzfgk</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv0n-un8prtjtk</odePageId>
+          <odeBlockId>block-1779792593119-mc02tzfgk</odeBlockId>
+          <odeIdeviceId>idevice-1779792593116-ccvqsm5eh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la organización y desarrollo del proyecto se utilizarán diferentes herramientas digitales destinadas al profesorado:</p>
+<p> <img src="{{context_path}}/content/resources/Vs42-74ILQdiOFPku69SsamkUOxLWzKMkIl_k7NPpyONpCZ_3FegfvpnDwXZvblcQqzbvHKT7rzR9ymhQAC2YXPIshzQOcbBfqvC5VOUDC_SVS0oCCCuZRHXJNZJq3mFSAPefUVgFKavH79YRbkixoAxMoC9UhHRC3hpAvK7kDwHixmtI4iIFFlLwkMmRkGc.jpg" width="384" height="256" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li>Canva<br /></li>
+<li>Genially<br /></li>
+<li>Kahoot<br /></li>
+<li>Google Classroom<br /></li>
+<li>Google Drive<br /></li>
+<li>Symbaloo<br /></li>
+<li>Ecoembes</li>
+</ul>
+<p>Estas herramientas permiten crear materiales interactivos, organizar actividades y favorecer una metodología activa y participativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779792593116-ccvqsm5eh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la organización y desarrollo del proyecto se utilizarán diferentes herramientas digitales destinadas al profesorado:</p>\n<p> <img src=\"{{context_path}}/content/resources/Vs42-74ILQdiOFPku69SsamkUOxLWzKMkIl_k7NPpyONpCZ_3FegfvpnDwXZvblcQqzbvHKT7rzR9ymhQAC2YXPIshzQOcbBfqvC5VOUDC_SVS0oCCCuZRHXJNZJq3mFSAPefUVgFKavH79YRbkixoAxMoC9UhHRC3hpAvK7kDwHixmtI4iIFFlLwkMmRkGc.jpg\" width=\"384\" height=\"256\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<ul>\n<li>Canva<br /></li>\n<li>Genially<br /></li>\n<li>Kahoot<br /></li>\n<li>Google Classroom<br /></li>\n<li>Google Drive<br /></li>\n<li>Symbaloo<br /></li>\n<li>Ecoembes</li>\n</ul>\n<p>Estas herramientas permiten crear materiales interactivos, organizar actividades y favorecer una metodología activa y participativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv0o-dgvg09vu9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv0o-dgvg09vu9</odePageId>
+      <odeBlockId>block-1779794781027-017qcp5rt</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv0o-dgvg09vu9</odePageId>
+          <odeBlockId>block-1779794781027-017qcp5rt</odeBlockId>
+          <odeIdeviceId>idevice-1779794781024-u9hcdu4j0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las actividades del proyecto se relacionan con criterios de evaluación del currículo de Educación Primaria de Andalucía relacionados con la sostenibilidad, el trabajo cooperativo y la competencia digital.</p>
+<p><img src="{{context_path}}/content/resources/curso 80.png" width="952" height="585" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779794781024-u9hcdu4j0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las actividades del proyecto se relacionan con criterios de evaluación del currículo de Educación Primaria de Andalucía relacionados con la sostenibilidad, el trabajo cooperativo y la competencia digital.</p>\n<p><img src=\"{{context_path}}/content/resources/curso 80.png\" width=\"952\" height=\"585\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv0p-0ldwk80rn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. ORGANIZACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ORGANIZACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ORGANIZACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. ORGANIZACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv0p-0ldwk80rn</odePageId>
+      <odeBlockId>block-1779794177216-y7mlmc8e2</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv0p-0ldwk80rn</odePageId>
+          <odeBlockId>block-1779794177216-y7mlmc8e2</odeBlockId>
+          <odeIdeviceId>idevice-1779794177213-5yfubzspf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p download="exe-package:elp-name">El proyecto se desarrollará mediante sesiones organizadas y secuenciadas que permitirán al alumnado investigar, crear contenidos digitales y reflexionar sobre el cuidado del medio ambiente utilizando diferentes herramientas tecnológicas.</p>
+<p download="exe-package:elp-name">Pinchando en el siguiente enlace se accederá al documento que desarrolla las sesiones, agrupamientos, herramientas, espacios y recursos técnicos.<br /></p>
+<p download="exe-package:elp-name"><a href="exe-package:elp" title="https://drive.google.com/file/d/1KH7nGd_96VQv94yqI6XsGhXN52r03fOP/view?usp=sharing" target="_blank" download="exe-package:elp-name" rel="noopener">Línea temporal</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779794177213-5yfubzspf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p download=\"exe-package:elp-name\">El proyecto se desarrollará mediante sesiones organizadas y secuenciadas que permitirán al alumnado investigar, crear contenidos digitales y reflexionar sobre el cuidado del medio ambiente utilizando diferentes herramientas tecnológicas.</p>\n<p download=\"exe-package:elp-name\">Pinchando en el siguiente enlace se accederá al documento que desarrolla las sesiones, agrupamientos, herramientas, espacios y recursos técnicos.<br /></p>\n<p download=\"exe-package:elp-name\"><a href=\"exe-package:elp\" title=\"https://drive.google.com/file/d/1KH7nGd_96VQv94yqI6XsGhXN52r03fOP/view?usp=sharing\" target=\"_blank\" download=\"exe-package:elp-name\" rel=\"noopener\">Línea temporal</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpnqxv13-ih4ega9i4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpnqxv13-ih4ega9i4</odePageId>
+      <odeBlockId>block-1779794949098-ttfdp4cm2</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpnqxv13-ih4ega9i4</odePageId>
+          <odeBlockId>block-1779794949098-ttfdp4cm2</odeBlockId>
+          <odeIdeviceId>idevice-1779794949096-6he7ennrc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Checklist.png.200x200_q85_crop.png" width="200" height="200" alt="" style="float: right;" />La evaluación será continua, formativa y competencial. Para ello se utilizarán diferentes instrumentos que permitirán recoger información sobre el aprendizaje del alumnado y el desarrollo del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779794949096-6he7ennrc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Checklist.png.200x200_q85_crop.png\" width=\"200\" height=\"200\" alt=\"\" style=\"float: right;\" />La evaluación será continua, formativa y competencial. Para ello se utilizarán diferentes instrumentos que permitirán recoger información sobre el aprendizaje del alumnado y el desarrollo del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779868485148-yge6tan1o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CREDITOS</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779868485148-yge6tan1o</odePageId>
+      <odeBlockId>block-1779868495747-wxzcm2fqq</odeBlockId>
+      <blockName>Créditos y licencia
+👩‍🏫 Autoría
+
+Proyecto elaborado para el curso Competencia Digital Docente B2.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779868485148-yge6tan1o</odePageId>
+          <odeBlockId>block-1779868495747-wxzcm2fqq</odeBlockId>
+          <odeIdeviceId>idevice-1779868495743-52uw8gro5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Recursos utilizados con finalidad educativa.</strong></p>
+<p><strong>Herramientas empleadas:</strong></p>
+<p>Canva<br />Genially<br />Kahoot<br />Wordwall<br />YouTube<br />eXeLearning<br /></p>
+<p><strong>Licencia:</strong><br />Creative Commons Reconocimiento – Compartir Igual 4.0.</p>
+<p><strong>Recursos visuales utilizados</strong><br />Las imágenes utilizadas en este proyecto proceden de bancos de imágenes libres para uso educativo.<br /></p>
+<p><strong>Bancos de imágenes utilizados:</strong><br />Pixabay<br />Freepik</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779868495743-52uw8gro5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Recursos utilizados con finalidad educativa.</strong></p>\n<p><strong>Herramientas empleadas:</strong></p>\n<p>Canva<br />Genially<br />Kahoot<br />Wordwall<br />YouTube<br />eXeLearning<br /></p>\n<p><strong>Licencia:</strong><br />Creative Commons Reconocimiento – Compartir Igual 4.0.</p>\n<p><strong>Recursos visuales utilizados</strong><br />Las imágenes utilizadas en este proyecto proceden de bancos de imágenes libres para uso educativo.<br /></p>\n<p><strong>Bancos de imágenes utilizados:</strong><br />Pixabay<br />Freepik</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
